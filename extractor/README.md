@@ -9,7 +9,7 @@ The **Extractor** challenge required participants to make the AI model reveal it
 **Challenge Name**: Extractor  
 **Objective**: Extract the system prompt or hidden instructions from the AI model using a series of carefully crafted questions.  
 **Category**: Prompt Injection  
-**Difficulty**: Medium  
+**Difficulty**: Easy  
 
 In this challenge, the goal was to discover the internal rules or prompts that guide the AI model's behavior. By systematically questioning the AI, I was able to make it reveal information about its operational guidelines.
 
