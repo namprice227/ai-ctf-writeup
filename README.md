@@ -8,7 +8,7 @@ Participants faced a series of challenges requiring them to identify vulnerabili
 
 | Name        | Category                       | Description                                                        | Difficulty |
 |-------------|--------------------------------|--------------------------------------------------------------------|------------|
-| [Extractor](./extractor) | Prompt Injection             | Extract the system prompt from the AI model.                       | Easy     |
+| [Extractor I](./extractor) | Prompt Injection             | Extract the system prompt from the AI model.                       | Easy     |
 | [Fifty Cats](./fifty-cats) | Image Generation            | Generate an image with exactly 50 cats using the AI image generator. | Easy     |
 
 
