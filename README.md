@@ -7,7 +7,7 @@ Participants faced a series of challenges requiring them to identify vulnerabili
 ## CTF Challenges 📂
 
 | Name        | Category                       | Description                                                        | Difficulty |
-|-------------|--------------------------------|--------------------------------------------------------------------|------------|
+|---------------|--------------------------------|--------------------------------------------------------------------|------------|
 | [Extractor I](./extractor) | Prompt Injection             | Extract the system prompt from the AI model.                       | Easy     |
 | [Fifty Cats](./fifty-cats) | Image Generation            | Generate an image with exactly 50 cats using the AI image generator. | Easy     |
 
