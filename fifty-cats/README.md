@@ -54,4 +54,5 @@ By tweaking the `conf_threshold` and `iou_threshold` to lower values, the AI bec
 
 ### 3. Prompt engineering
 The prompt needs to have words like "clear, defined, hyper-realism, high resolution, upscaling" to make the AI generate the cat images more clear. 
-My prompt used is: generate a grid of many white cats faces, smooth face, symmetrical face, clear face, defined face, hyper-realism, high resolution, upscaling
+My prompt used is: Generate a grid of many white cats faces, smooth face, symmetrical face, **clear face**, **defined face**, *hyper-realism*, **high resolution**, *upscaling*.
+
